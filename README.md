@@ -1,1 +1,1 @@
-initial commit
+React Typescript Webpack boilerplate
